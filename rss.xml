@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[How to Start a Non Profit]]></title>
         <description><![CDATA[How to Start a Non Profit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/how-to-start-a-non-profit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 01:19:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 01:24:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/how-to-start-a-non-profit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The resume that proves it's possible.]]></title>
+            <description><![CDATA[<article><h1>The resume that proves it's possible.</h1><p>Point blank- I had no reason to get in the position I was in. Looking down at my laptop in a Starbucks, I was thrilled to open an e-mail I just received from a board member, in which I anticipated glowing responses on my first projected budget.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdde5a9d-336a-4b1e-ad0e-d8bcfa11397d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/how-to-start-a-non-profit/the-resume-that-proves-its-possible/index.html</link>
+            <guid isPermaLink="false">dfb64725-556b-4ea3-b574-374ae6b5cfb8</guid>
+            <pubDate>Sat, 26 Dec 2015 01:24:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I did it. You can too. ]]></title>
             <description><![CDATA[<article><h1>I did it. You can too. </h1><p>Three years ago, just like you, I had the nagging thought in the back of my head. I wanted to do good, I wanted to help somebody else, and I wanted an organization for the platform to do so.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e60c5cb2589290f3870997c36becd2206ab2fa09.jpg"></article>]]></description>
-            <link>undefinedi-did-it-you-can-too/index.html</link>
+            <link>https://thegrid.ai/how-to-start-a-non-profit/i-did-it-you-can-too/index.html</link>
             <guid isPermaLink="false">248576f7-f237-41cd-a716-6f7490719e13</guid>
             <pubDate>Sat, 26 Dec 2015 01:19:24 GMT</pubDate>
         </item>
