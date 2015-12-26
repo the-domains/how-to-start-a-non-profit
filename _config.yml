@@ -1,7 +1,7 @@
 name: How to Start a Non Profit
 favicon: null
-layout_spectrum: 0.7485635888297111
-typography_spectrum: 0.27471833070740104
+layout_spectrum: 0.49924
+typography_spectrum: 0.88719
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#676360'
     - '#fcc200'
   brandStrength: 0.3125
-  lightness: 0.3080593303311616
-  saturation: 0.13977308687753975
-  rhythmicContrast: 0.1123826673720032
+  lightness: 0.6875
+  saturation: 0.9375
+  rhythmicContrast: 0.25
 purpose: []
