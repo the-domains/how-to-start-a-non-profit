@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[How to Start a Non Profit]]></title>
+        <description><![CDATA[How to Start a Non Profit]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 01:19:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I did it. You can too. ]]></title>
+            <description><![CDATA[<article><h1>I did it. You can too. </h1><p>Three years ago, just like you, I had the nagging thought in the back of my head. I wanted to do good, I wanted to help somebody else, and I wanted an organization for the platform to do so.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e60c5cb2589290f3870997c36becd2206ab2fa09.jpg"></article>]]></description>
+            <link>undefinedi-did-it-you-can-too/index.html</link>
+            <guid isPermaLink="false">248576f7-f237-41cd-a716-6f7490719e13</guid>
+            <pubDate>Sat, 26 Dec 2015 01:19:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
